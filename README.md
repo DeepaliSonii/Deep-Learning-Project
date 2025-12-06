@@ -1,4 +1,4 @@
-# 👗 Fashion Image Similarity Recommendation System
+# 👗 Fashion Recommendation System
 
 This project is an AI-based application that recommends visually similar fashion items when a user uploads an image. It uses **Deep Learning (ResNet50)** for feature extraction and **KNN** for similarity matching. A simple and interactive **Streamlit** interface is used to display the results.
 
